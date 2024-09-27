@@ -1,0 +1,27 @@
+/* @font-face {
+  font-family: "Monument Regular";
+  src: url("./assets/fonts/MonumentExtended-Regular.otf") format("opentype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Monument Extended";
+  src: url("./assets/fonts/MonumentExtended-Ultrabold.otf") format("opentype");
+  font-weight: 800;
+} */
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: "Inter", sans-serif;
+  overflow-x: hidden;
+}
+
+.ant-drawer-body {
+  padding: 20px 25px 20px 18px !important;
+}
+
+.ant-drawer-header-close-only {
+  padding-left: 18px;
+  padding-right: 18px;
+}
