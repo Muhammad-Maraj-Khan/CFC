@@ -18,7 +18,7 @@ const HomeBanner = () => {
         <Row gutter={[30, 0]}>
           <Col xl={12} lg={12} md={24} sm={24} xs={24} className="home-content">
             <div className="home-banner-header fade-in-header">
-              AI-Powered Solutions to Transform Your Enterprise!
+              AI-Powered Solutions to Transform Your Enterprise
             </div>
             <div className="home-banner-text fade-in-text">
               An AI oriented consultancy specializing in creating custom
